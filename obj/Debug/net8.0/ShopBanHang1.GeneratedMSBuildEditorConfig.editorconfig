@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShopBanHang1
+build_property.RootNamespace = ShopBanHang1
+build_property.ProjectDir = C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoa/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoa/Product_item.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxQcm9kdWN0X2l0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoa/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Home/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Shared/Components/LoaiMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9haU1lbnVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Shared/_CustomLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Shared/_ShopTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaG9wVGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h6ey8g8q7d

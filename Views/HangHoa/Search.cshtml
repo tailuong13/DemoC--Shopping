@@ -1,0 +1,8 @@
+﻿@model IEnumerable<ShopBanHang1.ViewModels.HangHoaViewModel>
+@{
+    ViewData["Title"] = "Search";
+	Layout = "_ShopTemplate";
+}
+
+
+@await Html.PartialAsync("Product_item", Model)

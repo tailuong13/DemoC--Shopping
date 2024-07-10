@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\wwwroot\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:wwwroot\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\views\\shared\\_shoptemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:views\\shared\\_shoptemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\viewmodels\\hanghoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:viewmodels\\hanghoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\viewmodels\\loaimenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:viewmodels\\loaimenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\views\\hanghoa\\product_item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:views\\hanghoa\\product_item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|c:\\tailuong\\projects\\c#_learn\\shopbanhang1\\shopbanhang1\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EF20B9-CEB1-4FBE-8E38-9EE9FA8D7482}|ShopBanHang1.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:43:33.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "detail.html",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\wwwroot\\detail.html",
+              "RelativeDocumentMoniker": "wwwroot\\detail.html",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\wwwroot\\detail.html",
+              "RelativeToolTip": "wwwroot\\detail.html",
+              "ViewState": "AQIAACUCAAAAAAAAAAAkwOUBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-10T14:58:23.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T14:56:57.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product_item.cshtml",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Product_item.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Product_item.cshtml",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Product_item.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Product_item.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T13:30:36.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_CustomLayout.cshtml",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CustomLayout.cshtml",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CustomLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T10:56:39.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T10:41:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ShopTemplate.cshtml",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\Shared\\_ShopTemplate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ShopTemplate.cshtml",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\Shared\\_ShopTemplate.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ShopTemplate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:54:26.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T09:59:49.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T09:50:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HangHoaViewModel.cs",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\ViewModels\\HangHoaViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HangHoaViewModel.cs",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\ViewModels\\HangHoaViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HangHoaViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:00:07.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoaiMenuViewModel.cs",
+              "DocumentMoniker": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\ViewModels\\LoaiMenuViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoaiMenuViewModel.cs",
+              "ToolTip": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\ViewModels\\LoaiMenuViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoaiMenuViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:35:50.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
