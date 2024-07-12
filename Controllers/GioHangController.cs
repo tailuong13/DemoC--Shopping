@@ -14,8 +14,7 @@ namespace ShopBanHang1.Controllers
 			db = context;
 		}
 
-		const string CART_KEY = "MYCART";
-		public List<GioHangViewModel> Cart => HttpContext.Session.Get<List<GioHangViewModel>>(CART_KEY) ?? new List<GioHangViewModel>();
+		public List<GioHangViewModel> Cart => HttpContext.Session.Get<List<GioHangViewModel>>(ConstSetting.CART_KEY) ?? new List<GioHangViewModel>();
 
 		public IActionResult Index()
 		{
@@ -51,7 +50,7 @@ namespace ShopBanHang1.Controllers
 			{
 				item.SoLuong += quantity;
 			}
-			HttpContext.Session.Set(CART_KEY, gioHang);
+			HttpContext.Session.Set(ConstSetting.CART_KEY, gioHang);
 			return RedirectToAction("Index");
 		}
 
@@ -63,7 +62,7 @@ namespace ShopBanHang1.Controllers
 			if (item != null)
 			{
 				gioHang.Remove(item);
-				HttpContext.Session.Set(CART_KEY, gioHang);
+				HttpContext.Session.Set(ConstSetting.CART_KEY, gioHang);
 			}
 			return RedirectToAction("Index");
 		}
