@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/GioHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvSGFuZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Tailuong/Projects/C\#_Learn/ShopBanHang1/ShopBanHang1/Views/HangHoas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

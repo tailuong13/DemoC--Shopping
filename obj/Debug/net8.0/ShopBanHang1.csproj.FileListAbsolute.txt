@@ -250,3 +250,4 @@ C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1\bin\Debug\net8.0\runtime
 C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Tailuong\Projects\C#_Learn\ShopBanHang1\ShopBanHang1\obj\Debug\net8.0\ShopBanHang1.sourcelink.json
