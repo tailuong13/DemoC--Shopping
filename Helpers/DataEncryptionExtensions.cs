@@ -38,8 +38,6 @@ namespace MyCommerce.Models
 				return sBuilder.ToString();
 			}
 		}
-
 		#endregion
-
 	}
 }

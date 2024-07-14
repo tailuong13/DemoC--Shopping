@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "od9xbfuQ5B7mgC9WNc1r3jM09Kb4R0OGTKvWUo9Rtpk=",
+  "Hash": "kiQNlXVlSwlIwaUsJUqMXmzwusuHd+I8th/5UskxxfU=",
   "Source": "ShopBanHang1",
   "BasePath": "_content/ShopBanHang1",
   "Mode": "Default",
@@ -5107,6 +5107,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\icons\\Zoom.png"
+    },
+    {
+      "Identity": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\wwwroot\\Hinh\\KhachHang\\47s71u-LogoMakr.png",
+      "SourceId": "ShopBanHang1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\wwwroot\\",
+      "BasePath": "_content/ShopBanHang1",
+      "RelativePath": "Hinh/KhachHang/47s71u-LogoMakr.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\47s71u-LogoMakr.png"
     },
     {
       "Identity": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\wwwroot\\Hinh\\KhachHang\\android_300200.png",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopBanHang1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dec9d716a760692c2293c7e403b972481e79736d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841b9bc57faa6cafce150254013801ccb654cc7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopBanHang1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopBanHang1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

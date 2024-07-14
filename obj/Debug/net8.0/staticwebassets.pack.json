@@ -329,6 +329,10 @@
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\To.gif"
     },
     {
+      "Id": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\wwwroot\\Hinh\\KhachHang\\47s71u-LogoMakr.png",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\47s71u-LogoMakr.png"
+    },
+    {
       "Id": "C:\\Tailuong\\Projects\\C#_Learn\\ShopBanHang1\\ShopBanHang1\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
     },
